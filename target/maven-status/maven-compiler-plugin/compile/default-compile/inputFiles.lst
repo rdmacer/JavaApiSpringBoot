@@ -1,0 +1,9 @@
+/home/rdmacer/JavaProjects/JavaApiSpringBoot/src/main/java/com/api/domain/dao/ExchangeDao.java
+/home/rdmacer/JavaProjects/JavaApiSpringBoot/src/main/java/com/api/domain/entitys/Exchange.java
+/home/rdmacer/JavaProjects/JavaApiSpringBoot/src/main/java/com/api/ui/BaseExchange.java
+/home/rdmacer/JavaProjects/JavaApiSpringBoot/src/main/java/com/api/ui/ExchangeResponse.java
+/home/rdmacer/JavaProjects/JavaApiSpringBoot/src/main/java/com/api/service/ExchangeRateService.java
+/home/rdmacer/JavaProjects/JavaApiSpringBoot/src/main/java/com/api/ui/ExchangeRequest.java
+/home/rdmacer/JavaProjects/JavaApiSpringBoot/src/main/java/com/api/domain/dao/jpa/JpaExchangeDao.java
+/home/rdmacer/JavaProjects/JavaApiSpringBoot/src/main/java/com/api/ExchangeApplication.java
+/home/rdmacer/JavaProjects/JavaApiSpringBoot/src/main/java/com/api/controller/ExchangeRateController.java
